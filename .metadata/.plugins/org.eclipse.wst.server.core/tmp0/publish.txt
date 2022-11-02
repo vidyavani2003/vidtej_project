@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Wed Nov 02 20:55:11 IST 2022
+org.eclipse.jst.jee.server\:CollegeProject=C\:\\Users\\Vidya\\java.websource\\apache-tomcat-10.0.27\\wtpwebapps\\CollegeProject
+org.eclipse.jst.jee.server\:FirstProject=C\:\\Users\\Vidya\\java.websource\\apache-tomcat-10.0.27\\wtpwebapps\\FirstProject

@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\Vidya\java.websource\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3796153783.index
+2513898892.index
+3114073824.index
+3969902745.index
+1321870685.index
+1318437790.index
+107573622.index
+3711170813.index
